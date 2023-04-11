@@ -10,6 +10,12 @@
 
 <br>
 
-<h3 align="center">
+<p align="center">
   <img src="https://github.com/victordev86/Easy-Shopping/blob/master/img/laptop.png?raw=true" width="500px"> <img src="https://github.com/victordev86/Easy-Shopping/blob/master/img/mobile.png?raw=true" width="190px">
-</h3>
+</p>
+
+<h3 align="center">Check the website here</h3> 
+
+<p align="center">
+  <a href="https://victordev86.github.io/Easy-Shopping/">https://victordev86.github.io/Easy-Shopping/</a>
+</p>
